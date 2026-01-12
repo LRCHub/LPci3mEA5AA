@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "贅沢と君とカプチーノ",
+  "base_artist": "shikisai",
+  "createdAt": "2026-01-12T07:14:46.846034Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "贅沢と君とカプチーノ",
+      "artist": "shikisai",
+      "has_synced": false,
+      "path": "select/pl_01_贅沢と君とカプチーノ_shikisai.txt"
+    }
+  ]
+}
